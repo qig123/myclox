@@ -1,0 +1,7 @@
+# Compilation artifacts
+bin/
+*.o
+*.out
+
+# VSCode specific
+.vscode/
